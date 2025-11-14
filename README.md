@@ -96,6 +96,6 @@ To get started with the Healthcare Management System, follow these steps:
 
 ```bash
 
-git clone https://github.com/Mallika-Dey/healthcare-system.git
+git clone https://github.com/Yuvasri0304/Covid-19-Vaccination-with-Spring-boot-and-AWS.git
 
-cd healthcare-system
+cd Covid-19-Vaccination-with-Spring-boot-and-AWS
